@@ -1,0 +1,63 @@
+    body {
+        margin: 0px;
+        background-color: #C6A15B;
+    }
+
+    main {
+        background-color: #F2E86D;
+        padding: 10px;
+
+    }
+
+    header {
+        background-color: #C6A15B;
+        color: #0D160B;
+        padding: 20px;
+        padding-left: 10px;
+        padding-right: 10px;
+        padding-top: 15px;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+
+    }
+
+    footer {
+        background-color: #A38560;
+        padding: 10px;
+        text-align: center;
+        font-weight: 500;
+    }
+
+
+    figure{
+        width: 300px;
+        margin: 15px auto;
+        border: 1px solid #C6A15B;
+        padding: 10px;
+        box-shadow: 0 0 6px #0D160B;
+        border-radius: 5px 5px 0 0;
+    }
+
+    figure img{
+        width: 300px;
+    }
+
+
+    h1 {
+        margin: 0px;
+        text-align: justify;
+    }
+
+    p {
+        color: #0D160B;
+        text-align: center;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        font-weight: 500;
+    }
+
+    figcaption {
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        text-align: center;
+        padding: 3px;
+
+    }
